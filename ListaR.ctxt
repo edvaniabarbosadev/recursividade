@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ListaR
+comment1.params=
+comment1.target=ListaR()
+comment2.params=v
+comment2.target=void\ push(int)
+comment3.params=
+comment3.target=int\ length()
+comment4.params=
+comment4.target=void\ show()
+comment5.params=v
+comment5.target=int\ quant(int)
+numComments=6
